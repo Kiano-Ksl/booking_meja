@@ -17,7 +17,6 @@
 ### 🛠 **Technical Improvements**
 - Refactor beberapa komponen untuk modularitas  
 - Perbaikan bug minor  
-- Build lebih kecil & efisien
 
 ### 👥 **Authors**
 - **Rafi**  
