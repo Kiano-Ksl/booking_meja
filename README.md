@@ -21,7 +21,7 @@
 - **Afdal**
 
 ### 📜 **Full Changelog**
-
+https://github.com/Kiano-Ksl/Tugas_Aplikasi_booking_meja/compare/Pre_Alpha_apk...Pre_Alpha_apk3
 
 
 
